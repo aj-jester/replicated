@@ -3,3 +3,4 @@ dist/
 gen/docs
 logs/
 .idea/
+Dockerfile
